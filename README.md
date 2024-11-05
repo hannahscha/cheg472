@@ -13,7 +13,7 @@ Forest Fire Prediction: Development of an application to predict if a forest fir
 
 Lab Worksheet Week 1: Basic introduction to Python functions.
 
-Lab Worksheet Week 2 Day 1: Preprocessing of biomass gasification data.
+Lab Worksheet Week 2 Day 1: Preprocessing of biomass gasification data and analyzing variables.
 
 Lab Worksheet Week 2 Day 2: Biomass gasification data analysis.
 
