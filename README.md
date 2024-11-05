@@ -1,5 +1,5 @@
 # cheg472
-This repository contains each of the projects worked on during the CHEG 472 course in FALL 2024. All descriptions are available on the moodle page https://moodle.bucknell.edu/course/view.php?id=56168. 
+This repository contains each of the projects worked on during the CHEG 472 course in FALL 2024. All descriptions are available on the Moodle page https://moodle.bucknell.edu/course/view.php?id=56168. 
 
 For convience the shortened descriptions are outlined below:
 
@@ -39,7 +39,7 @@ https://huggingface.co/spaces/hannahasjkdnaonifa/distillation-column
 
 https://huggingface.co/spaces/hannahasjkdnaonifa/CSTR-PFR-For-First-Order-Irreversible-Reaction 
 
-Machine Learning 10.4
+Machine Learning 10.4:
 
 https://huggingface.co/spaces/hannahasjkdnaonifa/coffee
 
